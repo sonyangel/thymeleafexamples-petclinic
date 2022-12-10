@@ -2,5 +2,3 @@ Hello
 Doing Good.
 Again Doing good
 hi
-hello
-hello
